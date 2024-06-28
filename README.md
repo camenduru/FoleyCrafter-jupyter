@@ -19,5 +19,13 @@ https://foleycrafter.github.io/
 
 ### 🖼 Output
 
+Input:
+
+https://github.com/camenduru/FoleyCrafter-jupyter/assets/54370274/b717fbdb-a5bf-44ee-97bd-6ce3d9a29e66
+
+Output:
+
+https://github.com/camenduru/FoleyCrafter-jupyter/assets/54370274/860cd2e8-ef22-448f-b88c-bbf55b2acc7b
+
 ### 🏢 Sponsor
 https://runpod.io
