@@ -6,7 +6,7 @@
 
 | Notebook | Info
 | --- | --- |
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FoleyCrafter-jupyter/blob/main/FoleyCrafter_jupyter.ipynb) | FoleyCrafter_jupyter
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/camenduru/FoleyCrafter-jupyter/blob/main/FoleyCrafter_jupyter.ipynb) | FoleyCrafter_jupyter (Pro Colab 😭 23.3GB VRAM)
 
 ### 🧬 Code
 
